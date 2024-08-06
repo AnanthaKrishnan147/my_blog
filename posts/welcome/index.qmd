@@ -1,0 +1,12 @@
+---
+title: "Go outside and touch some grass"
+author: "The honoured one"
+date: "2024-08-03"
+categories: [Quality Of Life Changes]
+---
+
+Today i am gonna tell you about how to not waste yoyur life
+
+![](thumbnail.jpg)
+
+Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
